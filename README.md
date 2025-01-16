@@ -6,7 +6,7 @@ Aplicación de clima desarrollada en React con Vite, Tailwind CSS y PrimeReact.
 ## 🚀 Instalación
 
 1. Clona el repositorio:
- git clone git@github.com:saidaJimenez/Weather-app.git 
+ git clone git@github.com:saidaJimenez/Weather-app.git
 
 2. Instala las dependencias:
  npm install
