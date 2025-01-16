@@ -24,5 +24,3 @@ npm run dev
 - Axios
 - OpenWeatherMap API
 
-## 📷 Capturas de Pantalla
-[Agrega aquí imágenes de la aplicación]
